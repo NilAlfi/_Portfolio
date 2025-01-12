@@ -8,7 +8,7 @@ const AboutMe = () => {
         <div className="content max-w-2xl">
           <h2 className="text-[#4ECCA3] text-2xl font-bold mb-6">WHO I AM?</h2>
           <p className="text-lg leading-relaxed">
-            Hello! I’m Nazmul Hossain, a passionate JavaScript developer
+            Hi! It's ME Nil Alfi, a passionate JavaScript developer & Shopify Experts
             specializing in creating innovative web solutions and user-friendly
             interfaces. As the creator of the{" "}
             <a className="text-[#4ECCA3] px-2" href="https://olova.js.org/">
