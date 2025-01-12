@@ -118,10 +118,10 @@ const profile = {
                 <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold leading-tight">
                   <SparklesText text="Hello" />
                   <span className="relative inline-block">
-                    I'm
+                    It's Me
                     <span className="typing-effect gradient-text">
                       {" "}
-                      Nazmul Hossain
+                      Nil Alfi
                     </span>
                   </span>
                 </h1>

@@ -143,9 +143,7 @@ export default function EnhancedPortfolioCard() {
                 </Badge>
               </div>
               <p className="text-gray-300 text-lg leading-relaxed">
-                Visual Designer with 7+ years of experience. I'm all about
-                crafting user-friendly interfaces that are functional and
-                visually compelling.
+              Hi, It's Nil Alfi, a Computer Science and Engineering student, and a punctual, dedicated, and enthusiastic web developer. I consider myself an expert Shopify Developer with more than four years of experience in Shopify store design and development. I am solely focused on developing e-commerce stores on Shopify. I also have experience working as a programmer for about 5 years. I always try to find the right and optimal solution to any problem.
               </p>
               <p className="text-gray-300 text-lg leading-relaxed">
                 Born and raised in the beautiful Costa Rica. When I'm not busy
@@ -190,7 +188,7 @@ export default function EnhancedPortfolioCard() {
                 </motion.div>
                 <div>
                   <h3 className="font-semibold text-xl text-gray-100">
-                    Interaction Designer
+                    Shopify Designer
                   </h3>
                   <p className="text-lg text-gray-400">
                     Critical Mass / On-Site Apple
